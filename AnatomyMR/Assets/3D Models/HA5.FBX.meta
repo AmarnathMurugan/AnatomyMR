@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 60ca9d467ba36104bb2683a43b65ba96
+timeCreated: 1497259183
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone006
+    100008: Bone007
+    100010: Eye_R
+    100012: eyeball_1.007
+    100014: eyeball_1.008
+    100016: eyeball_1.009
+    100018: eyeball_1.010
+    100020: //RootNode
+    100022: Heart_Root
+    100024: Intestines
+    100026: Kidneys
+    100028: L_Eye
+    100030: Lungs
+    100032: Lungs_Root
+    100034: mesh000
+    100036: mesh002
+    100038: mesh003
+    100040: mesh004
+    100042: mesh005
+    100044: mesh006
+    100046: mesh008
+    100048: Muscles
+    100050: Organs
+    100052: Skeleton
+    100054: Sphere001
+    100056: Sphere002
+    100058: Stomach
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone006
+    400008: Bone007
+    400010: Eye_R
+    400012: eyeball_1.007
+    400014: eyeball_1.008
+    400016: eyeball_1.009
+    400018: eyeball_1.010
+    400020: //RootNode
+    400022: Heart_Root
+    400024: Intestines
+    400026: Kidneys
+    400028: L_Eye
+    400030: Lungs
+    400032: Lungs_Root
+    400034: mesh000
+    400036: mesh002
+    400038: mesh003
+    400040: mesh004
+    400042: mesh005
+    400044: mesh006
+    400046: mesh008
+    400048: Muscles
+    400050: Organs
+    400052: Skeleton
+    400054: Sphere001
+    400056: Sphere002
+    400058: Stomach
+    2300000: eyeball_1.007
+    2300002: eyeball_1.008
+    2300004: eyeball_1.009
+    2300006: eyeball_1.010
+    2300008: Intestines
+    2300010: mesh000
+    2300012: mesh002
+    2300014: mesh003
+    2300016: mesh008
+    2300018: Muscles
+    2300020: Skeleton
+    2300022: Sphere001
+    2300024: Sphere002
+    2300026: Stomach
+    3300000: eyeball_1.007
+    3300002: eyeball_1.008
+    3300004: eyeball_1.009
+    3300006: eyeball_1.010
+    3300008: Intestines
+    3300010: mesh000
+    3300012: mesh002
+    3300014: mesh003
+    3300016: mesh008
+    3300018: Muscles
+    3300020: Skeleton
+    3300022: Sphere001
+    3300024: Sphere002
+    3300026: Stomach
+    4300000: mesh000
+    4300002: Intestines
+    4300004: Stomach
+    4300006: mesh008
+    4300008: mesh004
+    4300010: mesh005
+    4300012: mesh006
+    4300014: eyeball_1.009
+    4300016: eyeball_1.010
+    4300018: Sphere002
+    4300020: mesh003
+    4300022: mesh002
+    4300024: Sphere001
+    4300026: eyeball_1.008
+    4300028: eyeball_1.007
+    4300030: Muscles
+    4300032: Skeleton
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mesh004
+    13700002: mesh005
+    13700004: mesh006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Muscles
+        weight: 1
+      - path: Organs
+        weight: 1
+      - path: Organs/Eye_R
+        weight: 1
+      - path: Organs/Eye_R/eyeball_1.009
+        weight: 1
+      - path: Organs/Eye_R/eyeball_1.010
+        weight: 1
+      - path: Organs/Eye_R/Sphere002
+        weight: 1
+      - path: Organs/Heart_Root
+        weight: 1
+      - path: Organs/Heart_Root/Bone002
+        weight: 1
+      - path: Organs/Heart_Root/Bone002/Bone003
+        weight: 1
+      - path: Organs/Heart_Root/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Organs/Heart_Root/mesh004
+        weight: 1
+      - path: Organs/Intestines
+        weight: 1
+      - path: Organs/Kidneys
+        weight: 1
+      - path: Organs/Kidneys/mesh002
+        weight: 1
+      - path: Organs/Kidneys/mesh003
+        weight: 1
+      - path: Organs/L_Eye
+        weight: 1
+      - path: Organs/L_Eye/eyeball_1.007
+        weight: 1
+      - path: Organs/L_Eye/eyeball_1.008
+        weight: 1
+      - path: Organs/L_Eye/Sphere001
+        weight: 1
+      - path: Organs/Lungs_Root
+        weight: 1
+      - path: Organs/Lungs_Root/Bone006
+        weight: 1
+      - path: Organs/Lungs_Root/Bone006/Bone007
+        weight: 1
+      - path: Organs/Lungs_Root/Lungs
+        weight: 1
+      - path: Organs/Lungs_Root/Lungs/mesh005
+        weight: 1
+      - path: Organs/Lungs_Root/Lungs/mesh006
+        weight: 1
+      - path: Organs/mesh000
+        weight: 1
+      - path: Organs/mesh008
+        weight: 1
+      - path: Organs/Stomach
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
